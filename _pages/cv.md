@@ -7,16 +7,16 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {%  %} -->
 
-Education
+<!-- Education
 ======
 * Ph.D in Computer Science, University of Illinois Urbana-Champaign, 2022 - present
 * B.S. in Computer Science, Huazhong University of Science and Technology, 2018 - 2022
 
 Publications
-======
-- [arXiv Preprint] **Automated Flakiness Repair**  
+====== -->
+<!-- - [arXiv Preprint] **Automated Flakiness Repair**  
 **Yang Chen**, Reyhaneh Jabbarvand 
 - [arXiv Preprint] **Automated Bug Generation in the era of Large Language Models**  
 Ali Reza Ibrahimzada, **Yang Chen**, Ryan Rong, Reyhaneh Jabbarvand   
@@ -33,4 +33,4 @@ Talks
   
 Service
 ======
-* MSR'24 Junior PC
+* MSR'24 Junior PC -->
