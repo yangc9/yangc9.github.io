@@ -14,7 +14,7 @@ Publications
 1. [arXiv Preprint] Automated Flakiness Repair  
 **Yang Chen**, Reyhaneh Jabbarvand 
 2. [arXiv Preprint] Automated Bug Generation in the era of Large Language Models  
-Ali Reza Ibrahimzada, **Yang Chen**, Ryan Rong, Reyhaneh Jabbarvand   
+Ali Reza Ibrahimzada, **Yang Chen**, Ryan Rong, and Reyhaneh Jabbarvand   
 3. [Transforming Test Suites into Croissants](../files/ChenETAL23Croissants.pdf)  
 International Symposium on Software Testing and Analysis (*ISSTA 2023*), Seattle, WA, USA, July 2023.  
 **Yang Chen**, Alperen Yildiz, Darko Marinov, and Reyhaneh Jabbarvand  
