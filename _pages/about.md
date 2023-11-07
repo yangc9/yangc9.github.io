@@ -13,7 +13,7 @@ Publications
 ======
 - [arXiv Preprint] Automated Bug Generation in the era of Large Language Models  
 Ali Reza Ibrahimzada, **Yang Chen**, Ryan Rong, Reyhaneh Jabbarvand  
-- [arXiv Preprint]  
+- [arXiv Preprint] Automated Flakiness Repair  
 **Yang Chen**, Reyhaneh Jabbarvand  
 - [Transforming Test Suites into Croissants](https://dl.acm.org/doi/abs/10.1145/3597926.3598119)  
 International Symposium on Software Testing and Analysis (*ISSTA 2023*), Seattle, WA, USA, July 2023  
@@ -22,3 +22,6 @@ International Symposium on Software Testing and Analysis (*ISSTA 2023*), Seattle
 Proceedings of the 44th International Conference on Software Engineering (*ICSE 2022 Demo Track*), Pittsburgh, PA, USA, May 2022.  
 Ruixin Wang, **Yang Chen**, and Wing Lam.
 
+Service
+======
+- [MSR'24](https://2024.msrconf.org) Junior PC
