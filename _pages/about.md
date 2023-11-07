@@ -22,6 +22,10 @@ International Symposium on Software Testing and Analysis (*ISSTA 2023*), Seattle
 Proceedings of the 44th International Conference on Software Engineering (*ICSE 2022 Demo Track*), Pittsburgh, PA, USA, May 2022.  
 Ruixin Wang, **Yang Chen**, and Wing Lam.
 
+Talks
+======
+- [Conference Talk] Transforming Test Suites into Croissants.  *ISSTA'23 (Seattle, WA, USA, July 2023)*
+
 Service
 ======
 - [MSR'24](https://2024.msrconf.org) Junior PC
