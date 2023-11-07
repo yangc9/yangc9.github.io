@@ -11,49 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ph.D in Computer Science, University of Illinois Urbana-Champaign, 2022 - present
+* B.S. in Computer Science, Huazhong University of Science and Technology, 2018 - 2022
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+- [arXiv Preprint] **Automated Flakiness Repair**  
+**Yang Chen**, Reyhaneh Jabbarvand 
+- [arXiv Preprint] **Automated Bug Generation in the era of Large Language Models**  
+Ali Reza Ibrahimzada, **Yang Chen**, Ryan Rong, Reyhaneh Jabbarvand   
+- **Transforming Test Suites into Croissants**   
+International Symposium on Software Testing and Analysis (*ISSTA 2023*), Seattle, WA, USA, July 2023  
+**Yang Chen**, Alperen Yildiz, Darko Marinov, and Reyhaneh Jabbarvand  
+- **iPFlakies: A Framework for Detecting and Fixing Python Order-Dependent Flaky Tests** 
+Proceedings of the 44th International Conference on Software Engineering (*ICSE 2022 Demo Track*), Pittsburgh, PA, USA, May 2022.  
+Ruixin Wang, **Yang Chen**, and Wing Lam.
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Transforming Test Suites into Croissants.  *ISSTA'23 (Seattle, WA, USA, July 2023)*
   
-Teaching
+Service
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* MSR'24 Junior PC
