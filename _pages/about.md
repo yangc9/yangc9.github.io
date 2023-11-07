@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am a second year PhD student at University of Illinois Urbana-Champaign, in the Department of Computer Science. I am co-advised by [Prof.Darko Marinov](https://mir.cs.illinois.edu/marinov/) and [Prof.Reyhaneh Jabbarvand](https://reyhaneh.cs.illinois.edu). My research interests are in software engineering, with a specialized focus on software testing.
+Hi! I am a second year PhD student at University of Illinois Urbana-Champaign, in the Department of Computer Science. I am co-advised by [Prof. Darko Marinov](https://mir.cs.illinois.edu/marinov/) and [Prof. Reyhaneh Jabbarvand](https://reyhaneh.cs.illinois.edu). My research interests are in software engineering, with a specialized focus on software testing.
 
 Publications
 -----
