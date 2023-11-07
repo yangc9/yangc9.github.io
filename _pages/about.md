@@ -24,7 +24,7 @@ Ruixin Wang, **Yang Chen**, and Wing Lam.
 
 Talks
 -----
-- Transforming Test Suites into Croissants.  *ISSTA'23 (Seattle, WA, USA, July 2023)*
+- Transforming Test Suites into Croissants. ISSTA'23 (Seattle, WA, USA, July 2023).
 
 Service
 -----
