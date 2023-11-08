@@ -29,3 +29,4 @@ Talks
 Service
 -----
 - [MSR'24](https://2024.msrconf.org) Junior PC
+- [ICSE'22](https://conf.researchr.org/home/icse-2022) & [ISSTA'23](https://conf.researchr.org/home/issta-2023) Student Volunteer
