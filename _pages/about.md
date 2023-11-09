@@ -12,11 +12,11 @@ Hi! I am a second year PhD student at University of Illinois Urbana-Champaign, i
 Publications
 -----
 1. Automated Flakiness Repair  
+[*arXiv* Preprint], 2023.  
 **Yang Chen**, Reyhaneh Jabbarvand.  
-arXiv Pre-print, 2023. 
 2. [Automated Bug Generation in the era of Large Language Models](https://arxiv.org/abs/2310.02407)  
+[*arXiv* Preprint], 2023.  
 Ali Reza Ibrahimzada, **Yang Chen**, Ryan Rong, and Reyhaneh Jabbarvand.   
-arXiv Pre-print, 2023.  
 3. [Transforming Test Suites into Croissants](../files/ChenETAL23Croissants.pdf)  
 International Symposium on Software Testing and Analysis (*ISSTA 2023*), Seattle, WA, USA, July 2023.  
 **Yang Chen**, Alperen Yildiz, Darko Marinov, and Reyhaneh Jabbarvand.  
