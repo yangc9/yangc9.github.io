@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Yang Chen's Homepage"
+excerpt: "Yang Chen - UIUC CS PhD Student"
 author_profile: true
 redirect_from: 
   - /about/
