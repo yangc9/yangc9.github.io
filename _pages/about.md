@@ -29,7 +29,7 @@ International Flaky Tests Workshop at 46th International Conference on Software 
 Ali Reza Ibrahimzada, **Yang Chen**, Ryan Rong, and Reyhaneh Jabbarvand.
 
 [Transforming Test Suites into Croissants](../files/ChenETAL23Croissants.pdf)   
-International Symposium on Software Testing and Analysis (*ISSTA 2023*), Seattle, WA, USA, July 2023.  
+The 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (*ISSTA 2023*), Seattle, WA, USA, July 2023.    
 **Yang Chen**, Alperen Yildiz, Darko Marinov, and Reyhaneh Jabbarvand.  
 
 [iPFlakies: A Framework for Detecting and Fixing Python Order-Dependent Flaky Tests](../files/WangETAL22iPFlakies.pdf)  
