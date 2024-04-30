@@ -16,12 +16,12 @@ Publications
 **Yang Chen**, Reyhaneh Jabbarvand. 
 
 [Flakiness Repair in the Era of Large Language Models](https://conf.researchr.org/details/icse-2024/icse-2024-SRC/6/Flakiness-Repair-in-the-Era-of-Large-Language-Models)  
-ACM Student Research Competition at 46th International Conference on Software Engineering (SRC@ICSE 2024). Lisbon, Portugal. April 14-20, 2024. *(To appear)*.  
+ACM Student Research Competition at 46th International Conference on Software Engineering (SRC@ICSE 2024). Lisbon, Portugal. April 2024. *(To appear)*.  
 🏅 <span style="color:red;">Rank 2nd in ACM Student Research Competition</span>  
 **Yang Chen**
 
 [Can ChatGPT Repair Non-Order-Dependent Tests?](https://conf.researchr.org/details/icse-2024/ftw-2024-papers/7/Can-ChatGPT-Repair-Non-Order-Dependent-Tests-)  
-International Flaky Tests Workshop at 46th International Conference on Software Engineering (FTW@ICSE 2024). Lisbon, Portugal. April 14-20, 2024. *(To appear)*.  
+International Flaky Tests Workshop at 46th International Conference on Software Engineering (FTW@ICSE 2024). Lisbon, Portugal. April 2024. *(To appear)*.  
 **Yang Chen**, Reyhaneh Jabbarvand.
 
 [Automated Bug Generation in the era of Large Language Models](https://arxiv.org/abs/2310.02407)  
