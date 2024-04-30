@@ -41,7 +41,9 @@ Ruixin Wang, **Yang Chen**, and Wing Lam.
 - Transforming Test Suites into Croissants. ISSTA'23 (Seattle, WA, USA, July 2023). -->
 
 Grants
-- ACM SIGSOFT CAPS Grant for [ISSTA'23](https://conf.researchr.org/home/issta-2023) & [ICSE'24](https://conf.researchr.org/home/icse-2024)
+----
+- ACM SIGSOFT CAPS Grant for [ISSTA'23](https://conf.researchr.org/home/issta-2023)
+- ACM SIGSOFT CAPS Grant for [ICSE'24](https://conf.researchr.org/home/icse-2024)
 
 Service
 -----
