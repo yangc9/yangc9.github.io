@@ -42,11 +42,11 @@ Ruixin Wang, **Yang Chen**, and Wing Lam.
 
 Grants
 ----
-- ACM SIGSOFT CAPS Grant for [ISSTA'23](https://conf.researchr.org/home/issta-2023)
-- ACM SIGSOFT CAPS Grant for [ICSE'24](https://conf.researchr.org/home/icse-2024)
+- ACM SIGSOFT CAPS Grant for [ISSTA 2023](https://conf.researchr.org/home/issta-2023)
+- ACM SIGSOFT CAPS Grant for [ICSE 2024](https://conf.researchr.org/home/icse-2024)
 
 Service
 -----
-- [MSR'24](https://2024.msrconf.org) Junior Program Committee
-- [ISSTA'24](https://conf.researchr.org/home/issta-2024) Artifact Evaluation Committee
-- [ICSE'22](https://conf.researchr.org/home/icse-2022) & [ISSTA'23](https://conf.researchr.org/home/issta-2023) Student Volunteer
+- Junior Program Committee: [MSR 2024](https://2024.msrconf.org) 
+- Artifact Evaluation Committee: [ISSTA 2024](https://conf.researchr.org/home/issta-2024) 
+- Student Volunteer: [ICSE 2022](https://conf.researchr.org/home/icse-2022) & [ISSTA 2023](https://conf.researchr.org/home/issta-2023) 
