@@ -42,8 +42,7 @@ Ruixin Wang, **Yang Chen**, and Wing Lam.
 
 Grants
 ----
-- ACM SIGSOFT CAPS Grant for [ISSTA 2023](https://conf.researchr.org/home/issta-2023)
-- ACM SIGSOFT CAPS Grant for [ICSE 2024](https://conf.researchr.org/home/icse-2024)
+- ACM SIGSOFT CAPS Grant for [ISSTA 2023](https://conf.researchr.org/home/issta-2023) & [ICSE 2024](https://conf.researchr.org/home/icse-2024)
 
 Service
 -----
