@@ -21,7 +21,7 @@ Publications
 ACM Student Research Competition at 46th International Conference on Software Engineering.  
 *SRC@ICSE 2024*. Lisbon, Portugal. April 2024. *(To appear)*.  
 🏅 <span style="color:red;">Rank 2nd in ACM Student Research Competition</span>  
-**Yang Chen**
+**Yang Chen**.
 
 [Can ChatGPT Repair Non-Order-Dependent Tests?](https://conf.researchr.org/details/icse-2024/ftw-2024-papers/7/Can-ChatGPT-Repair-Non-Order-Dependent-Tests-)  
 International Flaky Tests Workshop at 46th International Conference on Software Engineering.  
