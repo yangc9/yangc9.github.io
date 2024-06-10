@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Yang Chen"
 title_separator          : "-"
 name                     : &name "Yang Chen"
 description              : &description "CS PhD Student @UIUC"
