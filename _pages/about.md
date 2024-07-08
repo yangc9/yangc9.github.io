@@ -13,11 +13,11 @@ I am co-advised by [Prof. Darko Marinov](https://mir.cs.illinois.edu/marinov/) a
 
 Publications
 -----
-[A Generic Approach to Fix Test Flakiness in Real-World Projects](https://arxiv.org/pdf/2404.09398)  
+[A Generic Approach to Fix Test Flakiness in Real-World Projects.](https://arxiv.org/pdf/2404.09398)  
 [*arXiv* preprint], 2024.  
 **Yang Chen**, Reyhaneh Jabbarvand. 
 
-[Flakiness Repair in the Era of Large Language Models](https://conf.researchr.org/details/icse-2024/icse-2024-SRC/6/Flakiness-Repair-in-the-Era-of-Large-Language-Models)  
+[Flakiness Repair in the Era of Large Language Models.](https://conf.researchr.org/details/icse-2024/icse-2024-SRC/6/Flakiness-Repair-in-the-Era-of-Large-Language-Models)  
 ACM Student Research Competition at 46th International Conference on Software Engineering.  
 *SRC@ICSE 2024*. Lisbon, Portugal. April 2024. *(To appear)*.  
 🏅 <span style="color:red;">Rank 2nd in ACM Student Research Competition</span>  
@@ -28,16 +28,16 @@ International Flaky Tests Workshop at 46th International Conference on Software 
 *FTW@ICSE 2024*. Lisbon, Portugal. April 2024. *(To appear)*.  
 **Yang Chen**, Reyhaneh Jabbarvand.
 
-[Automated Bug Generation in the era of Large Language Models](https://arxiv.org/abs/2310.02407)  
+[Automated Bug Generation in the era of Large Language Models.](https://arxiv.org/abs/2310.02407)  
 [*arXiv* preprint], 2023.  
 Ali Reza Ibrahimzada, **Yang Chen**, Ryan Rong, and Reyhaneh Jabbarvand.
 
-[Transforming Test Suites into Croissants](../files/ChenETAL23Croissants.pdf)   
+[Transforming Test Suites into Croissants.](../files/ChenETAL23Croissants.pdf) [slides](https://docs.google.com/presentation/d/1WajUy3HU1A82Y7-vI4TbEV4b8m-hWhztqLwQ37nOunU/edit?usp=sharing)     
 The 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis.  
 *ISSTA 2023*, Seattle, WA, USA, July 2023.    
 **Yang Chen**, Alperen Yildiz, Darko Marinov, and Reyhaneh Jabbarvand.  
 
-[iPFlakies: A Framework for Detecting and Fixing Python Order-Dependent Flaky Tests](../files/WangETAL22iPFlakies.pdf)  
+[iPFlakies: A Framework for Detecting and Fixing Python Order-Dependent Flaky Tests.](../files/WangETAL22iPFlakies.pdf)  
 Proceedings of the 44th International Conference on Software Engineering.  
 *ICSE 2022 Demo Track*, Pittsburgh, PA, USA, May 2022.  
 Ruixin Wang, **Yang Chen**, and Wing Lam.
