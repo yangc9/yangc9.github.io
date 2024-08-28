@@ -13,8 +13,9 @@ I am co-advised by [Prof. Darko Marinov](https://mir.cs.illinois.edu/marinov/) a
 
 Publications
 -----
-[A Generic Approach to Fix Test Flakiness in Real-World Projects.](https://arxiv.org/pdf/2404.09398)  
-[*arXiv* preprint], 2024.  
+[Neurosymbolic Repair of Test Flakiness.](https://2024.issta.org)  
+The 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis.  
+*ISSTA 2024*, Vienna, Austria, September 2024. *(To appear)*.  ([*arXiv* version](https://arxiv.org/pdf/2404.09398))  
 **Yang Chen**, Reyhaneh Jabbarvand. 
 
 [Flakiness Repair in the Era of Large Language Models.](https://conf.researchr.org/details/icse-2024/icse-2024-SRC/6/Flakiness-Repair-in-the-Era-of-Large-Language-Models)  
