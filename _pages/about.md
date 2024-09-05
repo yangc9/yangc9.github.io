@@ -14,7 +14,7 @@ I am co-advised by [Prof. Darko Marinov](https://mir.cs.illinois.edu/marinov/) a
 Publications
 -----
 [Neurosymbolic Repair of Test Flakiness.](../files/FlakyDoctor_ISSTA24.pdf)  
-The 33nd ACM SIGSOFT International Symposium on Software Testing and Analysis.  
+The 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis.  
 *ISSTA 2024*. Vienna, Austria. September 2024. *(To appear)*.  ([*arXiv* version](https://arxiv.org/pdf/2404.09398)).  
 **Yang Chen**, Reyhaneh Jabbarvand. 
 
