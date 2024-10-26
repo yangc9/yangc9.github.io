@@ -15,18 +15,18 @@ Publications
 -----
 [Neurosymbolic Repair of Test Flakiness.](../files/ChenETAL24FlakyDcotor.pdf)  
 The 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis.  
-*ISSTA 2024*. Vienna, Austria. September 2024. *(To appear)*.  ([*arXiv* version](https://arxiv.org/pdf/2404.09398)).  
+*ISSTA 2024*. Vienna, Austria. September 2024.  ([*arXiv* version](https://arxiv.org/pdf/2404.09398)).  
 **Yang Chen**, Reyhaneh Jabbarvand. 
 
 [Flakiness Repair in the Era of Large Language Models.](https://conf.researchr.org/details/icse-2024/icse-2024-SRC/6/Flakiness-Repair-in-the-Era-of-Large-Language-Models)  
 ACM Student Research Competition at 46th International Conference on Software Engineering.  
-*SRC@ICSE 2024*. Lisbon, Portugal. April 2024. *(To appear)*.  
+*SRC@ICSE 2024*. Lisbon, Portugal. April 2024.  
 🏅 <span style="color:red;">Rank 2nd in ACM Student Research Competition</span>  
 **Yang Chen**.
 
 [Can ChatGPT Repair Non-Order-Dependent Tests?](https://conf.researchr.org/details/icse-2024/ftw-2024-papers/7/Can-ChatGPT-Repair-Non-Order-Dependent-Tests-)  
 International Flaky Tests Workshop at 46th International Conference on Software Engineering.  
-*FTW@ICSE 2024*. Lisbon, Portugal. April 2024. *(To appear)*.  
+*FTW@ICSE 2024*. Lisbon, Portugal. April 2024.  
 **Yang Chen**, Reyhaneh Jabbarvand.
 
 [Automated Bug Generation in the era of Large Language Models.](https://arxiv.org/abs/2310.02407)  
@@ -49,7 +49,7 @@ Ruixin Wang, **Yang Chen**, and Wing Lam.
 
 Grants
 ----
-- ACM SIGSOFT CAPS Grant for [ISSTA 2023](https://conf.researchr.org/home/issta-2023) & [ICSE 2024](https://conf.researchr.org/home/icse-2024)
+- ACM SIGSOFT CAPS Grant for [ISSTA 2023](https://conf.researchr.org/home/issta-2023) & [ICSE 2024](https://conf.researchr.org/home/icse-2024) & [ISSTA 2024](https://2024.issta.org)
 
 Service
 -----
