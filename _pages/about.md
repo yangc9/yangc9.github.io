@@ -9,9 +9,9 @@ redirect_from:
 ---
 Hi! I am a PhD student at [University of Illinois Urbana-Champaign](https://illinois.edu) in the [Department of Computer Science](https://cs.illinois.edu) starting in fall 2022.
 
-I am co-advised by [Prof. Darko Marinov](https://mir.cs.illinois.edu/marinov/) and [Prof. Reyhaneh Jabbarvand](https://reyhaneh.cs.illinois.edu). My research interests are in software engineering, with a specialized focus on software testing.
+I am co-advised by [Prof. Darko Marinov](https://mir.cs.illinois.edu/marinov/) and [Prof. Reyhaneh Jabbarvand](https://reyhaneh.cs.illinois.edu). My research interests are in software engineering, with a specialized focus on software testing. Recently I am exploring the integration of SE and AI to tackle real world tasks.
 
-Publications
+Selected Publications
 -----
 [Neurosymbolic Repair of Test Flakiness.](../files/ChenETAL24FlakyDcotor.pdf)  
 The 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis.  
@@ -47,12 +47,12 @@ Ruixin Wang, **Yang Chen**, and Wing Lam.
 -----
 - Transforming Test Suites into Croissants. ISSTA'23 (Seattle, WA, USA, July 2023). -->
 
-Grants
+Selected Grants
 ----
 - ACM SIGSOFT CAPS Grant for [ISSTA 2023](https://conf.researchr.org/home/issta-2023) & [ICSE 2024](https://conf.researchr.org/home/icse-2024) & [ISSTA 2024](https://2024.issta.org)
 
 Service
 -----
 - Junior Program Committee: [MSR 2024](https://2024.msrconf.org) 
-- Artifact Evaluation Committee: [ISSTA 2024](https://conf.researchr.org/home/issta-2024) 
+- Artifact Evaluation Committee: [ISSTA 2024](https://conf.researchr.org/home/issta-2024) & [ISSTA2025](https://conf.researchr.org/home/issta-2025)
 - Student Volunteer: [ICSE 2022](https://conf.researchr.org/home/icse-2022) & [ISSTA 2023](https://conf.researchr.org/home/issta-2023) 
