@@ -15,7 +15,7 @@ Selected Publications
 -----
 [Neurosymbolic Repair of Test Flakiness.](../files/ChenETAL24FlakyDcotor.pdf)  
 The 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis.  
-*ISSTA 2024*. Vienna, Austria. September 2024.  ([*arXiv* version](https://arxiv.org/pdf/2404.09398)).  
+*ISSTA 2024*. Vienna, Austria. September 2024.   
 **Yang Chen**, Reyhaneh Jabbarvand. 
 
 [Flakiness Repair in the Era of Large Language Models.](https://conf.researchr.org/details/icse-2024/icse-2024-SRC/6/Flakiness-Repair-in-the-Era-of-Large-Language-Models)  
