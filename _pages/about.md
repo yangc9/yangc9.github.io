@@ -11,12 +11,13 @@ Hi! I am a PhD student at [University of Illinois Urbana-Champaign](https://illi
 
 I am co-advised by [Prof. Darko Marinov](https://mir.cs.illinois.edu/marinov/) and [Prof. Reyhaneh Jabbarvand](https://reyhaneh.cs.illinois.edu). My research interests are in software engineering, with a specialized focus on software testing. Recently I am exploring the integration of SE and AI to tackle real world tasks.
 
-Selected Publications
+Publications
 -----
-[Neurosymbolic Repair of Test Flakiness.](../files/ChenETAL24FlakyDcotor.pdf)  
-The 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis.  
-*ISSTA 2024*. Vienna, Austria. September 2024.   
-**Yang Chen**, Reyhaneh Jabbarvand. 
+
+[A Preliminary Study of Fixed Flaky Tests in Rust Projects on GitHub.](https://arxiv.org/pdf/2502.02760)  
+International Flaky Tests Workshop at 47th International Conference on Software Engineering.  
+*FTW@ICSE 2025*. Ottawa, ON, Canada. April 2025.  
+Tom Schroeder, Minh Phan, **Yang Chen**.  
 
 [Flakiness Repair in the Era of Large Language Models.](https://conf.researchr.org/details/icse-2024/icse-2024-SRC/6/Flakiness-Repair-in-the-Era-of-Large-Language-Models)  
 ACM Student Research Competition at 46th International Conference on Software Engineering.  
@@ -53,6 +54,7 @@ Selected Grants
 
 Service
 -----
+- Reviewer: MSR 2024 & TOSEM 2025
 - Junior Program Committee: [MSR 2024](https://2024.msrconf.org) 
 - Artifact Evaluation Committee: [ISSTA 2024](https://conf.researchr.org/home/issta-2024) & [ISSTA2025](https://conf.researchr.org/home/issta-2025)
 - Student Volunteer: [ICSE 2022](https://conf.researchr.org/home/icse-2022) & [ISSTA 2023](https://conf.researchr.org/home/issta-2023) 
