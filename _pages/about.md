@@ -13,11 +13,15 @@ I am co-advised by [Prof. Darko Marinov](https://mir.cs.illinois.edu/marinov/) a
 
 Publications
 -----
-
 [A Preliminary Study of Fixed Flaky Tests in Rust Projects on GitHub.](https://arxiv.org/pdf/2502.02760)  
 International Flaky Tests Workshop at 47th International Conference on Software Engineering.  
 *FTW@ICSE 2025*. Ottawa, ON, Canada. April 2025.  
 Tom Schroeder, Minh Phan, **Yang Chen**.  
+
+[Neurosymbolic Repair of Test Flakiness.](../files/ChenETAL24FlakyDcotor.pdf)  
+The 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis.  
+*ISSTA 2024*. Vienna, Austria. September 2024.   
+**Yang Chen**, Reyhaneh Jabbarvand. 
 
 [Flakiness Repair in the Era of Large Language Models.](https://conf.researchr.org/details/icse-2024/icse-2024-SRC/6/Flakiness-Repair-in-the-Era-of-Large-Language-Models)  
 ACM Student Research Competition at 46th International Conference on Software Engineering.  
