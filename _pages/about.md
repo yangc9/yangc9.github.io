@@ -11,7 +11,7 @@ Hi! I am a PhD student in [Computer Science](https://cs.illinois.edu) at [Univer
 
 My research interests are in Software Engineering (SE) and AI, including (1) integrating program analysis with LLMs to tackle real-world challenges, such as flaky test repair and SWE issue repair; (2) synthetic data generation, such as evaluating flakiness detection tools and benchmarking LLMs. I also study LLM code reasoning. 
 
-Prior research projects have equipped me with skills and experiences in neurosymbolic program analysis, genetic algorithms, LLM fine-tuning, as well as software testing including flaky tests, mutation testing, and test suite minimization.
+Prior research projects have equipped me with skills and experiences in neurosymbolic program analysis, genetic algorithms, LLM fine-tuning, as well as software testing techniques including flaky tests detection & repair, mutation testing, and test suite minimization.
 
 My ongoing research focuses on developing agentic systems that integrate SE knowledge.
 
