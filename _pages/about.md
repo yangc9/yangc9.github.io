@@ -17,6 +17,11 @@ Prior research projects have equipped me with skills and experiences in neurosym
 
 Publications
 -----
+Assessing Coherency and Consistency of Code Execution Reasoning by Large Language Models.  
+International Conference on Software Engineering.  
+*ICSE 2026*. Brazil. April 2026.  
+Changshu Liu, **Yang Chen**, Reyhan Jabbarvand.
+
 [A Preliminary Study of Fixed Flaky Tests in Rust Projects on GitHub.](https://arxiv.org/pdf/2502.02760)  
 International Flaky Tests Workshop at 47th International Conference on Software Engineering.  
 *FTW@ICSE 2025*. Ottawa, ON, Canada. April 2025.  
