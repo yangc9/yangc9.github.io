@@ -9,11 +9,8 @@ redirect_from:
 ---
 Hi! I am a PhD student in [Computer Science](https://cs.illinois.edu) at [University of Illinois Urbana-Champaign](https://illinois.edu) since 2022 fall. I am co-advised by [Prof. Darko Marinov](https://mir.cs.illinois.edu/marinov/) and [Prof. Reyhaneh Jabbarvand](https://reyhaneh.cs.illinois.edu). 
 
-My research interests are in **Software Engineering (SE) and AI**, including (1) integrating program analysis with LLMs to tackle real-world challenges, such as flaky test repair and SWE issue repair; (2) synthetic data generation, such as evaluating test flakiness detection tools and benchmarking LLMs. I also study LLM code reasoning. My ongoing research focuses on building **agentic systems** that integrate SE knowledge.
-
-Prior research projects have equipped me with skills and experiences in neurosymbolic program analysis, genetic algorithms, LLM fine-tuning, as well as software testing including flaky tests detection & repair (accumulating to 130+ accepted patches in real-world projects), mutation testing, and test suite minimization.
-
-
+Research Interests: LLM, agentic systems, model evaluation, synthetic data generation, post-training,
+code generation and reasoning, program analysis, software testing.
 
 Publications
 -----
