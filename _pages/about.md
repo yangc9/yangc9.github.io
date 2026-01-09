@@ -9,8 +9,9 @@ redirect_from:
 ---
 Hi! I am a PhD student in [Computer Science](https://cs.illinois.edu) at [University of Illinois Urbana-Champaign](https://illinois.edu) since 2022 fall. I am co-advised by [Prof. Darko Marinov](https://mir.cs.illinois.edu/marinov/) and [Prof. Reyhaneh Jabbarvand](https://reyhaneh.cs.illinois.edu). 
 
-Research Interests: LLM, agentic systems, model evaluation, synthetic data generation, post-training,
-code generation and reasoning, program analysis, software testing.
+Research Interests: AI and Software Engineering (SE): LLM, agentic systems, model evaluation, synthetic data generation, post-training, code generation and reasoning, program analysis,
+software engineering, software testing, AI integrated with program analysis to solve
+real-world SE problems.
 
 Publications
 -----
