@@ -14,7 +14,7 @@ My research lies in AI and Software Engineering (SE):
 - Synthetic data generation to evaluate LLMs on complex coding tasks with real-world difficulty, study LLM code reasoning capabilities, and assess test flakiness detection tools.
 - Post-training of LLMs using high-quality synthetic data.
 - My ongoing research focuses on Agentic systems for efficient code generation and debugging, and perform process-centric analysis of LLM agents.
-- Prior research has also equipped me with a broad skill set such as neurosymbolic program analysis, genetic algorithms, LLM fine-tuning, flaky test detection and repair (**139 patches accepted in real-world projects**), mutation testing, and test-suite minimization.
+- Prior research has also equipped me with a broad skill set such as neurosymbolic program analysis, genetic algorithms, LLM fine-tuning, flaky test detection and repair (139 patches accepted in real-world projects), mutation testing, and test-suite minimization.
 
 
 Selected Publications ([Full List](../files/yang_cv_23.pdf))
