@@ -70,7 +70,7 @@ Selected Grants
 
 Service
 -----
-- Reviewer: MSR 2024 & TOSEM 2025
+- Reviewer: MSR 2024 & TSE 2025
 - Junior Program Committee: [MSR 2024](https://2024.msrconf.org) 
 - Artifact Evaluation Committee: [ISSTA 2024](https://conf.researchr.org/home/issta-2024) & [ISSTA2025](https://conf.researchr.org/home/issta-2025)
 - Student Volunteer: [ICSE 2022](https://conf.researchr.org/home/icse-2022) & [ISSTA 2023](https://conf.researchr.org/home/issta-2023) 
