@@ -9,23 +9,12 @@ redirect_from:
 ---
 Hi! I am a PhD student in [Computer Science](https://cs.illinois.edu) at [University of Illinois Urbana-Champaign](https://illinois.edu) since 2022 fall. I am co-advised by [Prof. Darko Marinov](https://mir.cs.illinois.edu/marinov/) and [Prof. Reyhaneh Jabbarvand](https://reyhaneh.cs.illinois.edu). 
 
-My research lies in AI and software engineering (SE):
-- LLM-based systems that integrate program analysis to address real-world
-problems, e.g., Agentic SWE issue repair and flaky tests repair;
-
-- Synthetic data generation to benchmark LLMs on complex coding tasks with
-real-world difficulty, study LLM code reasoning capabilities, and evaluate
-flakiness detection tools;
-
-- Post-training of LLMs using high-quality synthetic data.
-
-- My ongoing research focuses on building agentic systems for efficient code
-generation and conducting process-centric analysis of agents.
-
-- Others. Prior research projects have also equipped me with diverse skills in neu-
-rosymbolic program analysis, genetic algorithms and LLM fine-tuning, as well as
-software testing including flaky tests detection & repair (accumulating to 139
-patches accepted in real world), mutation testing and test suite minimization. 
+My research lies in AI and Software Engineering (SE):
+- **LLM-based systems integrated with program analysis** to address real-world SE problems, such as agentic SWE issue repair and flaky test repair.
+- **Synthetic data generation and benchmarking** to evaluate LLMs on complex coding tasks with real-world difficulty, study LLM code reasoning capabilities, and assess test flakiness detection tools.
+- **Post-training of LLMs** using high-quality synthetic data.
+- My ongoing research focuses on **Agentic systems for efficient code generation and debugging**, and perform **process-centric analysis** of LLM agents.
+- Prior research has also equipped me with a broad skill set such as neurosymbolic program analysis, genetic algorithms, LLM fine-tuning, flaky test detection and repair (**139 patches accepted in real-world projects**), mutation testing, and test-suite minimization.
 
 
 Selected Publications ([Full List](../files/yang_cv_23.pdf))
