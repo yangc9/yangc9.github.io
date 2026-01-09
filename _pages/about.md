@@ -13,7 +13,7 @@ My research lies in AI and Software Engineering (SE):
 - LLM-based systems integrated with program analysis to address real-world SE problems, such as agentic SWE issue repair and flaky test repair.
 - Synthetic data generation to evaluate LLMs on complex coding tasks with real-world difficulty, study LLM code reasoning capabilities, and assess test flakiness detection tools.
 - Post-training of LLMs using high-quality synthetic data.
-- My ongoing research focuses on Agentic systems for efficient code generation and debugging, and perform process-centric analysis of LLM agents.
+- My ongoing research focuses on Agentic systems for efficient code generation and debugging, and perform process-centric analysis of agents.
 - Prior research has also equipped me with a broad skill set such as neurosymbolic program analysis, genetic algorithms, LLM fine-tuning, flaky test detection and repair (139 patches accepted in real-world projects), mutation testing, and test-suite minimization.
 
 
