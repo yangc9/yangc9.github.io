@@ -49,7 +49,8 @@ International Flaky Tests Workshop at 46th International Conference on Software 
 [*arXiv* preprint], 2023.  
 Ali Reza Ibrahimzada, **Yang Chen**, Ryan Rong, and Reyhaneh Jabbarvand.
 
-[Transforming Test Suites into Croissants.](../files/ChenETAL23Croissants.pdf) [[Slides]](https://docs.google.com/presentation/d/1WajUy3HU1A82Y7-vI4TbEV4b8m-hWhztqLwQ37nOunU/edit?usp=sharing)     
+[Transforming Test Suites into Croissants.](../files/ChenETAL23Croissants.pdf) 
+<!-- [[Slides]](https://docs.google.com/presentation/d/1WajUy3HU1A82Y7-vI4TbEV4b8m-hWhztqLwQ37nOunU/edit?usp=sharing)      -->
 The 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis.  
 *ISSTA 2023*, Seattle, WA, USA, July 2023.    
 **Yang Chen**, Alperen Yildiz, Darko Marinov, and Reyhaneh Jabbarvand.  
