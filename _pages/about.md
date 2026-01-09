@@ -13,7 +13,7 @@ Research Interests: AI and Software Engineering (SE): LLM, agentic systems, mode
 software engineering, software testing, AI integrated with program analysis to solve
 real-world SE problems.
 
-Publications
+Selected Publications ([Full List](../files/yang_cv_23.pdf))
 -----
 Assessing Coherency and Consistency of Code Execution Reasoning by Large Language Models.  
 International Conference on Software Engineering.  
@@ -22,7 +22,7 @@ Changshu Liu, **Yang Chen**, Reyhan Jabbarvand.
 
 [A Preliminary Study of Fixed Flaky Tests in Rust Projects on GitHub.](https://arxiv.org/pdf/2502.02760)  
 International Flaky Tests Workshop at 47th International Conference on Software Engineering.  
-*FTW@ICSE 2025*. Ottawa, ON, Canada. April 2025.  
+*ICSE-FTW 2025*. Ottawa, ON, Canada. April 2025.  
 Tom Schroeder, Minh Phan, **Yang Chen**.  
 
 [Neurosymbolic Repair of Test Flakiness.](../files/ChenETAL24FlakyDcotor.pdf)  
@@ -32,13 +32,13 @@ The 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis.
 
 [Flakiness Repair in the Era of Large Language Models.](https://conf.researchr.org/details/icse-2024/icse-2024-SRC/6/Flakiness-Repair-in-the-Era-of-Large-Language-Models)  
 ACM Student Research Competition at 46th International Conference on Software Engineering.  
-*SRC@ICSE 2024*. Lisbon, Portugal. April 2024.  
+*ICSE-Companion 2024*. Lisbon, Portugal. April 2024.  
 🏅 <span style="color:red;">Rank 2nd in ACM Student Research Competition</span>  
 **Yang Chen**.
 
 [Can ChatGPT Repair Non-Order-Dependent Tests?](https://conf.researchr.org/details/icse-2024/ftw-2024-papers/7/Can-ChatGPT-Repair-Non-Order-Dependent-Tests-)  
 International Flaky Tests Workshop at 46th International Conference on Software Engineering.  
-*FTW@ICSE 2024*. Lisbon, Portugal. April 2024.  
+*ICSE-FTW 2024*. Lisbon, Portugal. April 2024.  
 **Yang Chen**, Reyhaneh Jabbarvand.
 
 [Automated Bug Generation in the era of Large Language Models.](https://arxiv.org/abs/2310.02407)  
