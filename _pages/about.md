@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am a PhD student in [Computer Science](https://cs.illinois.edu) at [University of Illinois Urbana-Champaign](https://illinois.edu) since 2022 fall. I am co-advised by [Prof. Darko Marinov](https://mir.cs.illinois.edu/marinov/) and [Prof. Reyhaneh Jabbarvand](https://reyhaneh.cs.illinois.edu). 
+Hi! I am a PhD student in [Computer Science](https://cs.illinois.edu) at [University of Illinois Urbana-Champaign](https://illinois.edu) since 2022 fall. I am co-advised by [Prof. Reyhaneh Jabbarvand](https://reyhaneh.cs.illinois.edu) and [Prof. Darko Marinov](https://mir.cs.illinois.edu/marinov/). 
 
 My research lies in AI and Software Engineering (SE):
 - Agentic LLM-based systems integrated with program analysis to address real-world SE problems, such as agentic SWE issue repair and flaky test repair.
