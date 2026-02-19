@@ -24,11 +24,6 @@ International Conference on Software Engineering.
 *ICSE 2026*. Brazil. April 2026.  
 Changshu Liu, **Yang Chen**, Reyhan Jabbarvand.
 
-[A Preliminary Study of Fixed Flaky Tests in Rust Projects on GitHub.](https://arxiv.org/pdf/2502.02760)  
-International Flaky Tests Workshop at 47th International Conference on Software Engineering.  
-*ICSE-FTW 2025*. Ottawa, ON, Canada. April 2025.  
-Tom Schroeder, Minh Phan, **Yang Chen**.  
-
 [Neurosymbolic Repair of Test Flakiness.](../files/ChenETAL24FlakyDcotor.pdf)  
 The 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis.  
 *ISSTA 2024*. Vienna, Austria. September 2024.   
