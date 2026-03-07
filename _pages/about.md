@@ -49,7 +49,7 @@ ACM Student Research Competition at 46th International Conference on Software En
 **Yang Chen**.
 
 [Automated Bug Generation in the era of Large Language Models.](https://arxiv.org/abs/2310.02407)  
-*arXiv* preprint, 2023.  
+*arXiv* preprint 2023.  
 Ali Reza Ibrahimzada, **Yang Chen**, Ryan Rong, and Reyhaneh Jabbarvand.
 
 [Transforming Test Suites into Croissants.](../files/ChenETAL23Croissants.pdf)   
