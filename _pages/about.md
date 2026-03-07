@@ -17,9 +17,23 @@ My research lies in AI and Software Engineering (SE):
 - Prior research has also equipped me with a broad skill set such as neurosymbolic program analysis, genetic algorithms, LLM fine-tuning, flaky test detection and repair (139 patches accepted in real-world projects), mutation testing, and test-suite minimization.
 
 
-Selected Publications ([Full List](../files/yang_cv_23.pdf))
+Selected Publications ([Full List](https://scholar.google.com/citations?user=d8nIhP8AAAAJ&hl=en))
 -----
-Assessing Coherency and Consistency of Code Execution Reasoning by Large Language Models.  
+
+[Narrowing the Complexity Gap in the Evaluation of Large Language Models.](https://arxiv.org/pdf/2602.18928)  
+**Yang Chen**, Shuyang Liu, Reyhaneh Jabbarvand.   
+arxiv 2026.  
+
+
+[When Old Meets New: Evaluating the Impact of Regression Tests on SWE Issue Resolution.](https://arxiv.org/pdf/2510.18270)  
+**Yang Chen**, Toufique Ahmed, Reyhaneh Jabbarvand, Martin Hirzel.  
+arxiv 2025. 
+
+[Process-Centric Analysis of Agentic Software Systems](https://arxiv.org/pdf/2512.02393).  
+*OOPSLA 2026*. Oakland, California, United States. October 2026.   
+Shuyang Liu, **Yang Chen**, Rahul Krishna, Saurabh Sinha, Jatin Ganhotra, Reyhan Jabbarvand. 
+
+[Assessing Coherency and Consistency of Code Execution Reasoning by Large Language Models.](https://arxiv.org/pdf/2510.15079).   
 International Conference on Software Engineering.  
 *ICSE 2026*. Brazil. April 2026.  
 Changshu Liu, **Yang Chen**, Reyhan Jabbarvand.
