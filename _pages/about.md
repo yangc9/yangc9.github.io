@@ -21,12 +21,12 @@ Selected Publications ([Full List](https://scholar.google.com/citations?user=d8n
 -----
 
 [Narrowing the Complexity Gap in the Evaluation of Large Language Models.](https://arxiv.org/pdf/2602.18928)  
-**Yang Chen**, Shuyang Liu, Reyhaneh Jabbarvand.   
 *arXiv* preprint 2026.  
+**Yang Chen**, Shuyang Liu, Reyhaneh Jabbarvand.   
 
 [When Old Meets New: Evaluating the Impact of Regression Tests on SWE Issue Resolution.](https://arxiv.org/pdf/2510.18270)  
+*arXiv* preprint 2025.  
 **Yang Chen**, Toufique Ahmed, Reyhaneh Jabbarvand, Martin Hirzel.  
-*arXiv* preprint 2025. 
 
 [Process-Centric Analysis of Agentic Software Systems](https://arxiv.org/pdf/2512.02393).  
 *OOPSLA 2026*. Oakland, California, United States. October 2026.   
