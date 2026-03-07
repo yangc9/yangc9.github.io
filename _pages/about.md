@@ -22,12 +22,11 @@ Selected Publications ([Full List](https://scholar.google.com/citations?user=d8n
 
 [Narrowing the Complexity Gap in the Evaluation of Large Language Models.](https://arxiv.org/pdf/2602.18928)  
 **Yang Chen**, Shuyang Liu, Reyhaneh Jabbarvand.   
-arxiv 2026.  
-
+*arXiv* preprint 2026.  
 
 [When Old Meets New: Evaluating the Impact of Regression Tests on SWE Issue Resolution.](https://arxiv.org/pdf/2510.18270)  
 **Yang Chen**, Toufique Ahmed, Reyhaneh Jabbarvand, Martin Hirzel.  
-arxiv 2025. 
+*arXiv* preprint 2025. 
 
 [Process-Centric Analysis of Agentic Software Systems](https://arxiv.org/pdf/2512.02393).  
 *OOPSLA 2026*. Oakland, California, United States. October 2026.   
@@ -50,7 +49,7 @@ ACM Student Research Competition at 46th International Conference on Software En
 **Yang Chen**.
 
 [Automated Bug Generation in the era of Large Language Models.](https://arxiv.org/abs/2310.02407)  
-[*arXiv* preprint], 2023.  
+*arXiv* preprint, 2023.  
 Ali Reza Ibrahimzada, **Yang Chen**, Ryan Rong, and Reyhaneh Jabbarvand.
 
 [Transforming Test Suites into Croissants.](../files/ChenETAL23Croissants.pdf)   
