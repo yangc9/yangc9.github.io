@@ -49,17 +49,11 @@ ACM Student Research Competition at 46th International Conference on Software En
 🏅 <span style="color:red;">Rank 2nd in ACM Student Research Competition</span>  
 **Yang Chen**.
 
-[Can ChatGPT Repair Non-Order-Dependent Tests?](https://conf.researchr.org/details/icse-2024/ftw-2024-papers/7/Can-ChatGPT-Repair-Non-Order-Dependent-Tests-)  
-International Flaky Tests Workshop at 46th International Conference on Software Engineering.  
-*ICSE-FTW 2024*. Lisbon, Portugal. April 2024.  
-**Yang Chen**, Reyhaneh Jabbarvand.
-
 [Automated Bug Generation in the era of Large Language Models.](https://arxiv.org/abs/2310.02407)  
 [*arXiv* preprint], 2023.  
 Ali Reza Ibrahimzada, **Yang Chen**, Ryan Rong, and Reyhaneh Jabbarvand.
 
-[Transforming Test Suites into Croissants.](../files/ChenETAL23Croissants.pdf) 
-<!-- [[Slides]](https://docs.google.com/presentation/d/1WajUy3HU1A82Y7-vI4TbEV4b8m-hWhztqLwQ37nOunU/edit?usp=sharing)      -->
+[Transforming Test Suites into Croissants.](../files/ChenETAL23Croissants.pdf)   
 The 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis.  
 *ISSTA 2023*, Seattle, WA, USA, July 2023.    
 **Yang Chen**, Alperen Yildiz, Darko Marinov, and Reyhaneh Jabbarvand.  
