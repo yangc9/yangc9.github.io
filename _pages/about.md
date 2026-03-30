@@ -24,8 +24,9 @@ Selected Publications ([Full List](https://scholar.google.com/citations?user=d8n
 *arXiv* preprint 2026.  
 **Yang Chen**, Shuyang Liu, Reyhaneh Jabbarvand.   
 
-[When Old Meets New: Evaluating the Impact of Regression Tests on SWE Issue Resolution.](https://arxiv.org/pdf/2510.18270)  
-*arXiv* preprint 2025.  
+Can Old Tests do New Tricks for Resolving SWE Issues?   
+The ACM International Conference on the Foundations of Software Engineering.   
+*FSE 2026*. Montreal, Canada. July 2026.   
 **Yang Chen**, Toufique Ahmed, Reyhaneh Jabbarvand, Martin Hirzel.  
 
 [Process-Centric Analysis of Agentic Software Systems](https://arxiv.org/pdf/2512.02393).  
