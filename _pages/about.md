@@ -20,7 +20,7 @@ My research lies in AI and Software Engineering (SE):
 Selected Publications ([Full List](https://scholar.google.com/citations?user=d8nIhP8AAAAJ&hl=en))
 -----
 
-[Narrowing the Complexity Gap in the Evaluation of Large Language Models.](https://arxiv.org/pdf/2602.18928)  
+[**Narrowing the Complexity Gap in the Evaluation of Large Language Models.**](https://arxiv.org/pdf/2602.18928)  
 *arXiv* preprint 2026.  
 **Yang Chen**, Shuyang Liu, Reyhaneh Jabbarvand.   
 
@@ -29,36 +29,37 @@ The ACM International Conference on the Foundations of Software Engineering.
 *FSE 2026*. Montreal, Canada. July 2026.   
 **Yang Chen**, Toufique Ahmed, Reyhaneh Jabbarvand, Martin Hirzel.  
 
-[Process-Centric Analysis of Agentic Software Systems](https://arxiv.org/pdf/2512.02393).  
+[**Process-Centric Analysis of Agentic Software Systems**](https://arxiv.org/pdf/2512.02393).  
 *OOPSLA 2026*. Oakland, California, United States. October 2026.   
 Shuyang Liu, **Yang Chen**, Rahul Krishna, Saurabh Sinha, Jatin Ganhotra, Reyhan Jabbarvand. 
 
-[Assessing Coherency and Consistency of Code Execution Reasoning by Large Language Models.](https://arxiv.org/pdf/2510.15079).   
+[**Assessing Coherency and Consistency of Code Execution Reasoning by Large Language Models.**](https://arxiv.org/pdf/2510.15079).   
 International Conference on Software Engineering.  
 *ICSE 2026*. Brazil. April 2026.  
 Changshu Liu, **Yang Chen**, Reyhan Jabbarvand.
 
-[Neurosymbolic Repair of Test Flakiness.](../files/ChenETAL24FlakyDcotor.pdf)  
+[**Neurosymbolic Repair of Test Flakiness.**](../files/ChenETAL24FlakyDcotor.pdf)  
 The 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis.  
 *ISSTA 2024*. Vienna, Austria. September 2024.   
 **Yang Chen**, Reyhaneh Jabbarvand. 
 
-[Flakiness Repair in the Era of Large Language Models.](https://conf.researchr.org/details/icse-2024/icse-2024-SRC/6/Flakiness-Repair-in-the-Era-of-Large-Language-Models)  
+[**Flakiness Repair in the Era of Large Language Models.**](https://conf.researchr.org/details/icse-2024/icse-2024-SRC/6/Flakiness-Repair-in-the-Era-of-Large-Language-Models)  
 ACM Student Research Competition at 46th International Conference on Software Engineering.  
 *ICSE-Companion 2024*. Lisbon, Portugal. April 2024.  
 🏅 <span style="color:red;">Rank 2nd in ACM Student Research Competition</span>  
 **Yang Chen**.
 
-[Automated Bug Generation in the era of Large Language Models.](https://arxiv.org/abs/2310.02407)  
-*arXiv* preprint 2023.  
+[**Automated Bug Generation in the era of Large Language Models.**](https://arxiv.org/abs/2310.02407)   
+The 25th IEEE International Conference on Source Code Analysis & Manipulation.    
+*SCAM 2025*, Auckland, New Zealand.    
 Ali Reza Ibrahimzada, **Yang Chen**, Ryan Rong, and Reyhaneh Jabbarvand.
 
-[Transforming Test Suites into Croissants.](../files/ChenETAL23Croissants.pdf)   
+[**Transforming Test Suites into Croissants.**](../files/ChenETAL23Croissants.pdf)   
 The 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis.  
 *ISSTA 2023*, Seattle, WA, USA, July 2023.    
 **Yang Chen**, Alperen Yildiz, Darko Marinov, and Reyhaneh Jabbarvand.  
 
-[iPFlakies: A Framework for Detecting and Fixing Python Order-Dependent Flaky Tests.](../files/WangETAL22iPFlakies.pdf)  
+[**iPFlakies: A Framework for Detecting and Fixing Python Order-Dependent Flaky Tests.**](../files/WangETAL22iPFlakies.pdf)  
 Proceedings of the 44th International Conference on Software Engineering.  
 *ICSE 2022 Demo Track*, Pittsburgh, PA, USA, May 2022.  
 Ruixin Wang, **Yang Chen**, and Wing Lam.
