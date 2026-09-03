@@ -19,8 +19,8 @@ My research lies in AI and Software Engineering (SE):
 
 Experience
 -----
-- **Applied Scientist Intern**, Amazon Web Services (AWS), California.  2026 Summer.
-- **Research Scientist Intern**, IBM Research, New York. 2025 Summer.
+- **Applied Scientist Intern**, Amazon Web Services (AWS). CA.  2026 Summer.
+- **Research Scientist Intern**, IBM Research. NY. 2025 Summer.
 
 Selected Publications ([Full List](https://scholar.google.com/citations?user=d8nIhP8AAAAJ&hl=en))
 -----
@@ -48,7 +48,8 @@ Changshu Liu, **Yang Chen**, Reyhan Jabbarvand.
 Changshu Liu, Alireza Ghazanfari, **Yang Chen**, Reyhaneh Jabbarvand.
 
 [**CodeMind: Evaluating Large Language Models for Code Reasoning.**](https://arxiv.org/pdf/2402.09664)  
-*arXiv* preprint 2024.  
+IEEE Transactions on Software Engineering.  
+*TSE 2026*.  
 Changshu Liu, **Yang Chen**, Reyhaneh Jabbarvand.
 
 [**Neurosymbolic Repair of Test Flakiness.**](../files/ChenETAL24FlakyDcotor.pdf)  
