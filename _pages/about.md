@@ -19,8 +19,8 @@ My research lies in AI and Software Engineering (SE):
 
 Experience
 -----
-- **Applied Scientist Intern**, Amazon Web Services (AWS). CA.  2026 Summer.
-- **Research Scientist Intern**, IBM Research. NY. 2025 Summer.
+- **Applied Scientist Intern**. Amazon Web Services (AWS). CA.  2026 Summer.
+- **Research Scientist Intern**. IBM Research. NY. 2025 Summer.
 
 Selected Publications ([Full List](https://scholar.google.com/citations?user=d8nIhP8AAAAJ&hl=en))
 -----
