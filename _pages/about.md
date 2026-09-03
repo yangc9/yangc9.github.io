@@ -17,6 +17,11 @@ My research lies in AI and Software Engineering (SE):
 - Prior research has also equipped me with a broad skill set such as neurosymbolic program analysis, genetic algorithms, LLM fine-tuning, flaky test detection and repair (139 patches accepted in real-world projects), mutation testing, and test-suite minimization.
 
 
+Experience
+-----
+- **Applied Scientist Intern**, Amazon Web Services (AWS), California, United States.  2026 Summer.
+- **Research Scientist Intern**, IBM Research, New York, United States. 2025 Summer.
+
 Selected Publications ([Full List](https://scholar.google.com/citations?user=d8nIhP8AAAAJ&hl=en))
 -----
 
@@ -24,7 +29,7 @@ Selected Publications ([Full List](https://scholar.google.com/citations?user=d8n
 *arXiv* preprint 2026.  
 **Yang Chen**, Shuyang Liu, Reyhaneh Jabbarvand.   
 
-**Can Old Tests do New Tricks for Resolving SWE Issues?**   
+[**Can Old Tests do New Tricks for Resolving SWE Issues?**](https://arxiv.org/abs/2510.18270)   
 The ACM International Conference on the Foundations of Software Engineering.   
 *FSE 2026*. Montreal, Canada. July 2026.   
 **Yang Chen**, Toufique Ahmed, Reyhaneh Jabbarvand, Martin Hirzel.  
@@ -37,6 +42,14 @@ Shuyang Liu, **Yang Chen**, Rahul Krishna, Saurabh Sinha, Jatin Ganhotra, Reyhan
 International Conference on Software Engineering.  
 *ICSE 2026*. Brazil. April 2026.  
 Changshu Liu, **Yang Chen**, Reyhan Jabbarvand.
+
+[**Evaluating Code Reasoning Abilities of Large Language Models Under Real-World Settings.**](https://arxiv.org/pdf/2512.14917)  
+*arXiv* preprint 2025.  
+Changshu Liu, Alireza Ghazanfari, **Yang Chen**, Reyhaneh Jabbarvand.
+
+[**CodeMind: Evaluating Large Language Models for Code Reasoning.**](https://arxiv.org/pdf/2402.09664)  
+*arXiv* preprint 2024.  
+Changshu Liu, **Yang Chen**, Reyhaneh Jabbarvand.
 
 [**Neurosymbolic Repair of Test Flakiness.**](../files/ChenETAL24FlakyDcotor.pdf)  
 The 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis.  
